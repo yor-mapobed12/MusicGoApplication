@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "77491261513",
+    "project_id": "songtrax-e5491",
+    "storage_bucket": "songtrax-e5491.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77491261513:android:90a3809f46ebe850e6ef98",
+        "android_client_info": {
+          "package_name": "com.musicgoapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY2_4QrZTZarAlASRxVwD9M0oIZ5AAFBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
